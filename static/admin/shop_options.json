@@ -1,5 +1,5 @@
 {
-  "verbose": false,
+  "verbose": true,
   "shopCurrency": "BRL",
   "itemMetaDescriptionTpl": "Compre agora %SHOPIFYPRODUCTTAG%.  Conecte-se com a energia ancestral - %STORENAME%. Faça uma visita!",
   "shopBtnlabel": "Saiba Mais",
@@ -12,5 +12,5 @@
   "basePath": "/",
   "tagMetaTitleTpl": "Compre %SHOPIFYPRODUCTTAG% no %STORENAME%. ",
   "shopTagline": "Produtos",
-  "tagPath": "false"
+  "tagPath": "/"
 }
