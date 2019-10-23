@@ -10,5 +10,6 @@ tags:
   - post
 editorpick: 'no'
 layout: post
+path: /rape-e-xamanismo/
 ---
 rapé
