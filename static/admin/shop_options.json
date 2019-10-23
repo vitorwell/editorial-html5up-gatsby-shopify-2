@@ -9,7 +9,7 @@
   "shopMetaTitleTpl": "Os melhores rapés",
   "productPath": "/",
   "categorySloganTpl": "%SHOPIFYPRODUCTTAG%",
-  "basePath": "/",
+  "basePath": "/produtos",
   "tagMetaTitleTpl": "Compre %SHOPIFYPRODUCTTAG% no %STORENAME%. ",
   "shopTagline": "Produtos",
   "tagPath": "/"
