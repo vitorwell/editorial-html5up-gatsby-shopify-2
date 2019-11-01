@@ -22,5 +22,10 @@ menuItems:
     link: /incenso
     linkType: internal
     parentid: '-1'
+  - id: '0'
+    label: Blog
+    link: /blog
+    linkType: internal
+    parentid: '-1'
 ---
 
