@@ -5,7 +5,7 @@ path: /rape-e-seus-beneficios/
 date: 2019-11-02T01:51:43.721Z
 featuredImage:
   alt: Aplicação do rapé sagrado
-  src: /images/d47499_c771db36ed28459a9c7d2d6200d42d62_mv2.webp
+  src: /images/rape.jpg
 description: Rapé e Xamanismo Post
 category: post
 tags:
