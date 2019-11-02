@@ -1,6 +1,6 @@
 module.exports = {
     product: {
-        text     : { button: 'Add to Cart' },
+        text     : { button: 'Comprar' },
         iframe   : false,
         contents : {
             img   : false,
@@ -11,8 +11,8 @@ module.exports = {
         templates : {
             button : '<button class="button primary icon solid fa-cart-plus {{data.classes.product.button}}">{{data.buttonText}}</button>'
         },
-        buttonDestination: 'cart',
-        quantiyLabel: 'Quantity'
+        buttonDestination: 'carrinho',
+        quantiyLabel: 'Quantidade'
     },
     toggle: {
         contents: {
@@ -36,12 +36,12 @@ module.exports = {
         },
         text: {
             title: 'Cart',
-            empty: 'Your cart is empty.',
-            button: 'Checkout',
+            empty: 'Seu Carrinho está vazio.',
+            button: 'Finalizar Compra',
             total: 'Total',
-            currency: 'USD',
-            notice: 'Shipping and discount codes are added at checkout.',
-            noteDescription: 'Special instructions for seller',
+            currency: 'BRL',
+            notice: 'O envio e desconto será calculado na finalização da compra.',
+            noteDescription: 'Deixe alguma instrução especial aqui',
         },
         styles: {
             button: {
