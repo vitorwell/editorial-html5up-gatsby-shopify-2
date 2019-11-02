@@ -6,7 +6,7 @@ date: 2019-11-02T01:51:43.721Z
 featuredImage:
   alt: Aplicação do rapé sagrado
   src: /images/rape.jpg
-description: Rapé e Xamanismo Post
+description: ''
 category: post
 tags:
   - post
