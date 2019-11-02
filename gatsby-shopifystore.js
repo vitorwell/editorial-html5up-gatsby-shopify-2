@@ -35,12 +35,12 @@ module.exports = {
             note: true,
         },
         text: {
-            title: 'Cart',
+            title: 'Carrinho',
             empty: 'Seu Carrinho está vazio.',
             button: 'Finalizar Compra',
             total: 'Total',
             currency: 'BRL',
-            notice: 'O envio e desconto será calculado na finalização da compra.',
+            notice: 'O envio e desconto serão calculados na finalização da compra.',
             noteDescription: 'Deixe alguma instrução especial aqui',
         },
         styles: {
