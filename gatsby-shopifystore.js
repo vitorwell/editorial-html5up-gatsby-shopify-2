@@ -11,7 +11,7 @@ module.exports = {
         templates : {
             button : '<button class="button primary icon solid fa-cart-plus {{data.classes.product.button}}">{{data.buttonText}}</button>'
         },
-        buttonDestination: 'carrinho',
+        buttonDestination: 'cart',
         quantiyLabel: 'Quantidade'
     },
     toggle: {
