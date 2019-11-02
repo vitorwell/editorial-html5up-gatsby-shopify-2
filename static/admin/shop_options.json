@@ -2,7 +2,7 @@
   "verbose": true,
   "shopCurrency": "BRL",
   "itemMetaDescriptionTpl": "Compre agora %SHOPIFYPRODUCTTAG%.  Conecte-se com a energia ancestral - Rapé Sagrado. Faça uma visita!",
-  "shopBtnlabel": "Saiba Mais",
+  "shopBtnlabel": "Comprar",
   "shopMetaDescriptionTpl": "Loja especializada na medicina indígena rapé. Variedades de rapés de diversos feitores, preparados para você. Clique aqui e confira!",
   "itemMetaTitleTpl": " %SHOPIFYPRODUCTNAME% a pronta entrega.",
   "tagMetaDescriptionTpl": "Loja especializada em %SHOPIFYPRODUCTTAG%. Conecte-se com a energia ancestral. Entregamos para todo o Brasil. Confira!",
