@@ -19,7 +19,7 @@ seo:
     Conheça os benefícios do rapé, uma medicina sagrada utilizada pelos índios
     em rituais e cerimônias espirituais. Confira!
 ---
-O rapé é uma tradição cultural espiritual dos povos indígenas, trata-se de um pó fino no composto de tabaco, cinzas e outras ervas. Os ingredientes são secados, piladas e peneirados a fim de se obter um pó fino o qual é soprado nas narinas.
+O rapé é uma tradição cultural espiritual dos povos indígenas, trata-se de um pó fino composto de tabaco, cinzas e outras ervas. Os ingredientes são secados, piladas e peneirados a fim de se obter um pó fino o qual é soprado nas narinas.
 
 Os índios consideram o rapé como uma medicina com poderes curativos, quando utilizado de forma correta e ritualística conecta o plano espiritual a pessoa que fez a comunhão do rapé. Aplicação requer consciência que a energia do utilizador influencia na aplicação.
 
