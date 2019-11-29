@@ -35,18 +35,18 @@ module.exports = {
             note: true,
         },
         text: {
-            title: 'Carrinho',
-            empty: 'Seu Carrinho está vazio.',
-            button: 'Finalizar Compra',
+            title: 'Cart',
+            empty: 'Your cart is empty.',
+            button: 'Checkout',
             total: 'Total',
-            currency: 'BRL',
-            notice: 'O envio e desconto serão calculados na finalização da compra.',
-            noteDescription: 'Deixe alguma instrução especial aqui',
+            currency: 'USD',
+            notice: 'Shipping and discount codes are added at checkout.',
+            noteDescription: 'Special instructions for seller',
         },
         styles: {
             button: {
                 'background-color': '#78b657',
             }
-        }
-    }
-}
+        },
+	popup: false
+} }
