@@ -35,13 +35,13 @@ module.exports = {
             note: true,
         },
         text: {
-            title: 'Cart',
-            empty: 'Your cart is empty.',
-            button: 'Checkout',
+            title: 'Carrinho',
+            empty: 'Seu carrinho está vazio.',
+            button: 'Finaizar Compra',
             total: 'Total',
-            currency: 'USD',
-            notice: 'Shipping and discount codes are added at checkout.',
-            noteDescription: 'Special instructions for seller',
+            currency: 'BRL',
+            notice: 'O frete sera calculado no na finalização da compra.',
+            noteDescription: 'Adicione alguma instrução adicional se necessário',
         },
         styles: {
             button: {
