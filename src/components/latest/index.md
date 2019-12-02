@@ -1,6 +1,6 @@
 ---
 templateKey: latest
-visible: false
+visible: true
 title: Latest Items
 items:
   - class: image
